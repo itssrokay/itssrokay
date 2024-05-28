@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssrokay" alt="itssrokay" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/_its_shiv_am" target="blank"><img src="https://img.shields.io/twitter/follow/_its_shiv_am?logo=twitter&style=for-the-badge" alt="_its_shiv_am" /></a> </p>
+<p align="left"> <a href="www.x.com" target="blank"><img src="https://img.shields.io/twitter/follow/_its_shiv_am?logo=twitter&style=for-the-badge" alt="_its_shiv_am" /></a> </p>
 
 - 🔭 I’m currently working on [Food villa](https://github.com/itssrokay/food-app)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivamraj82715@gmail.com**
 
-- ⚡ Fun fact **Chess grandmasters burn up to 6,000 calories a day during tournaments! It's the most intense diet plan with a checkmate twist! 😄**
+- ⚡ Fun fact **Chess grandmasters burn up to 6,000 calories daily during tournaments! It's the most intense diet plan with a checkmate twist! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
